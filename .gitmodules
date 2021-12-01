@@ -1,0 +1,3 @@
+[submodule "PETools"]
+	path = PETools
+	url = git@github.com:LeslieYon/EasyEncryptShell.git
